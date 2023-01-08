@@ -4,3 +4,4 @@ My name is Arianit Selimi and I am a Computer Engineer undergraduated student, c
 🔭 I’m currently looking for an internship position.
 🌱 I use:.js, .html, .css, .react & .ts.
 📫 Reach me: Facebook & Linkedin. 
+
