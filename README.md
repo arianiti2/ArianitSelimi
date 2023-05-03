@@ -4,7 +4,7 @@ I have more than 1+ year of experience working in projects as a developer.
 
 🔭 I’m currently looking for an internship position.
 🌱 I use: .html, .css, .js, .react, .node.js, .ts.
-📫 Reach me: Facebook & Linkedin.
+📫 Reach me : arianit.selimi@umib.net
                 
  My portfolio : https://arianitse.netlify.app/
  
